@@ -1,0 +1,11 @@
+E:\TextAdventure1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\TextAdventure1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\TextAdventure1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+E:\TextAdventure1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\TextAdventure1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\TextAdventure1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\TextAdventure1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\TextAdventure1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\TextAdventure1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\TextAdventure1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\TextAdventure1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
